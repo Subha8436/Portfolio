@@ -19,8 +19,8 @@
   "author": "Subhasish Dev Adhikary",
   "license": "MIT",
   "dependencies": {
-    "@react-three/drei": "^9.122.0",
-    "@react-three/fiber": "^8.18.0",
+    "@react-three/drei": "^10.7.9",
+    "@react-three/fiber": "^9.8.2",
     "@supabase/supabase-js": "^2.119.2",
     "framer-motion": "^14.14.0",
     "i18next": "^27.2.4",
